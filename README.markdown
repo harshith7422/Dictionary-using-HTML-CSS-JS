@@ -1,24 +1,35 @@
-# Dictionary App
+# 📚 Dictionary App
 
-A simple, web-based dictionary application built with HTML, CSS, and JavaScript, styled to resemble LinkedIn's clean and professional UI. The app allows users to search for word definitions, parts of speech, and example sentences using the free [DictionaryAPI.dev](https://dictionaryapi.dev/).
+A clean and responsive **web-based dictionary application** built using **HTML, CSS, and JavaScript**, powered by the free API from **dictionaryapi.dev**. This app allows users to search English words and instantly view their meanings, parts of speech, and example sentences.
 
-## Technologies Used
+---
 
-- **HTML**: Structure of the web page.
-- **CSS**: Styling with LinkedIn-inspired design, including custom fonts, colors, and shadows.
-- **JavaScript**: Handles API requests, DOM manipulation, and event listeners.
-- **DictionaryAPI.dev**: Free API for retrieving word data.
+## 🚀 Features
 
-## Setup
+- 🔍 **Instant word lookup** using a public dictionary API  
+- 📖 Displays:
+  - Word meaning  
+  - Part of speech  
+  - Example sentences (if available)  
+- 🎨 **Modern UI** with a clean, minimal design  
+- ⚡ Responsive and fast performance  
+- ❌ Error handling for invalid or missing words  
+- ⌨️ Press **Enter** to search quickly  
 
-1. **Clone or Download**:
-   - Clone this repository or download the `index.html` file.
+---
 
-2. **Run the App**:
-   - Open `index.html` in a web browser (e.g., Chrome, Firefox, Edge).
-   - No server or dependencies are required, as the app is a single HTML file with embedded CSS and JavaScript.
+## 🛠️ Technologies Used
 
-## File Structure
+| Technology | Purpose |
+|------------|---------|
+| **HTML5** | Page structure |
+| **CSS3** | Styling and layout |
+| **JavaScript (ES6)** | Fetching API + rendering results |
+| **dictionaryapi.dev** | Free dictionary API |
+
+---
+
+## 📦 Project Structure
 
 ```
 dictionary-app/
@@ -28,6 +39,7 @@ dictionary-app/
 ## Screenshots
 
 *Interface*
+
 ![image](https://github.com/user-attachments/assets/273185a7-374f-446e-a515-267f8b27b592)
 
 ---
